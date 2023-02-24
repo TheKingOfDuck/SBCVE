@@ -21,6 +21,7 @@
 |  傻逼CVE |“漏洞”名称  | 傻逼评级  | 傻逼描述  |
 |  ----  | ----  | ----  | ----  |
 | CVE-2022-45543|Discuz X3.4 XSS| 重傻 | **后台** **POST方式**触发的**反射型XSS** |
+| CVE-2022-44621|Apache Kylin: Command injection by Diagnosis Controller|超傻|命令注入的参数完全不可控，是uuid随机生成的。|
 
 ### 申诉
 
